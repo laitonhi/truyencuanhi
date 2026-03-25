@@ -1,16 +1,5 @@
 {
   "index": "Trang chủ",
-  "chuong-1": "Chương 1: Lời nói đầu"
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "Chương 1: Lời nói đầu": "Chương 1: Lời nói đầu",
+  "another": "Chương 2: Ôm nhau mà chết"
 }
