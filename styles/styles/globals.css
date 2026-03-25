@@ -1,0 +1,13 @@
+/* Chỉnh font chữ và căn lề cho nội dung truyện */
+article {
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.8;
+  text-align: justify; /* Căn lề đều 2 bên */
+  padding: 0 1rem;
+}
+
+/* Khoảng cách giữa các đoạn văn */
+article p {
+  margin-bottom: 1.5rem;
+}
