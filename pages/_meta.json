@@ -1,5 +1,8 @@
 {
   "index": "Giới thiệu đôi lời",
-  "truyen-1": "Để Người Chết Nhắm Mắt - 13 Vụ Án Mạng Kinh Hoàng và Kỳ Lạ",
+  {
+  "truyen-1": {
+    "title": "Để Người Chết Nhắm Mắt",
+    "href": "/truyen-1/loi-noi-dau"
   "phan-1": "Trò chơi kinh dị"
 }
