@@ -9,3 +9,6 @@ main {
   margin: 0 auto;
   font-size: 18px;
 }
+main {
+  font-family: 'Roboto', sans-serif;
+}
