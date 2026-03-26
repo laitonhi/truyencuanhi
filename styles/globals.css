@@ -1,14 +1,12 @@
-main p {
-  text-align: justify;
-  line-height: 1.9;
-  text-indent: 2em;
-}
-
 main {
   max-width: 700px;
   margin: 0 auto;
   font-size: 18px;
-}
-main {
   font-family: 'Roboto', sans-serif;
+}
+
+main p {
+  text-align: justify;
+  line-height: 1.9;
+  text-indent: 2em;
 }
