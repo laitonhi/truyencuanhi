@@ -10,7 +10,7 @@ export default {
       return (
         <h1
           style={{
-            textAlign: 'center',
+            textAlign: 'justify',
             fontSize: '26px',
             fontWeight: '700',
             margin: '30px 0 20px'
